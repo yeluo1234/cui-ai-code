@@ -1,0 +1,6 @@
+---
+description: 在生成vue代码时使用规则
+alwaysApply: false
+---
+
+在生产 vue 前端代码时，使用 vue3 组合式 API 语法
